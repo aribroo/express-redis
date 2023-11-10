@@ -1,0 +1,18 @@
+{
+  "name": "express-redis",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Rifki Ari Darmawan",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.6.10"
+  }
+}
